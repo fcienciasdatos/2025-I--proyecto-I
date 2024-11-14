@@ -25,5 +25,7 @@ Este repositorio contiene los diferentes proyectos desarrollados durante el curs
 
 10. [**ProyectoLenguajeCorporal**](ProyectoLenguajeCorporal/README.md) (Se subió mal el archivo .pdf)
 
+11. [**Reconocimiento de Caracteres Braille en Imágenes**](Reconocimiento-de-caracteres-braile-CNN/README.md) (1)
+
     
 
