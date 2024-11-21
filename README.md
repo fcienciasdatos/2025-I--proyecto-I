@@ -1,9 +1,8 @@
 # ![Logo Facultad de Ciencias](logoFC85.png) Curso Proyecto 1
 
-Este repositorio contiene los diferentes proyectos desarrollados durante el curso "Clasificación de Imágenes con Redes Neuronales", impartido en el semestre 2025-I en la Licenciatura en Matemáticas Aplicadas en la Facultad de Ciencias en la UNAM.
+Este repositorio contiene los diferentes proyectos desarrollados durante el curso "Clasificación de Imágenes con Redes Neuronales", impartido en el semestre 2025-I en la Licenciatura en Matemáticas Aplicadas en la Facultad de Ciencias de la UNAM.
 
 ## Proyectos:
----
 
 1. [**Una mejor comunicación**](/una-mejor-comunicacion/README.md) (1)
 
