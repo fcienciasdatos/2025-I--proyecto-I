@@ -1,6 +1,6 @@
-# 2025-I-proyecto-I
+# Proyecto I <img src="https://www.fciencias.unam.mx/sites/default/files/logoFC85.png" alt="Logo de Python" width="175" align="right">
 
-Este repositorio contiene los diferentes proyectos desarrollados durante el curso "Clasificación de Imágenes con Redes Neuronales", impartido en el semestre 2025-I en la Licenciatura en Matemáticas Aplicadas.
+Este repositorio contiene los diferentes proyectos desarrollados durante el curso "Clasificación de Imágenes con Redes Neuronales", impartido en el semestre 2025-I en la Licenciatura en Matemáticas Aplicadas en la Facultad de Ciencias en la UNAM.
 
 ## Proyectos:
 ---
@@ -26,6 +26,3 @@ Este repositorio contiene los diferentes proyectos desarrollados durante el curs
 10. [**ProyectoLenguajeCorporal**](ProyectoLenguajeCorporal/README.md) (Se subió mal el archivo .pdf)
 
 11. [**Reconocimiento de Caracteres Braille en Imágenes**](Reconocimiento-de-caracteres-braile-CNN/README.md) (1)
-
-    
-
