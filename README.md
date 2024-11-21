@@ -1,4 +1,6 @@
-# Proyecto I <img src="https://www.fciencias.unam.mx/sites/default/files/logoFC85.png" alt="Logo de Python" width="175" align="right">
+<img src="https://www.fciencias.unam.mx/sites/default/files/logoFC85.png" alt="Logo Facultad de Ciencias" width="175"> 
+
+# Proyecto I 
 
 Este repositorio contiene los diferentes proyectos desarrollados durante el curso "Clasificación de Imágenes con Redes Neuronales", impartido en el semestre 2025-I en la Licenciatura en Matemáticas Aplicadas en la Facultad de Ciencias en la UNAM.
 
